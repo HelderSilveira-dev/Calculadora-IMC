@@ -1,4 +1,14 @@
 body {
-    background: skyblue;
-    color: seashell;
+    background: snow;
+    
+}
+h1{
+    color: blue;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    color: red;
 }
